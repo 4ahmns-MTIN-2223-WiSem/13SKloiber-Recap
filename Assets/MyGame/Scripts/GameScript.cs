@@ -12,5 +12,4 @@ public class GameScript : MonoBehaviour
         return spriteIndex % 2;
     }
 
-    // QUELLEN: https://youtu.be/Xml-qIF7E44
 }
