@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class TurnScript : MonoBehaviour
 {
-    // QUELLEN: https://youtu.be/Xml-qIF7E44
-
+   
     SpriteRenderer spriteRenderer;
     GameObject gameBoard;
 
