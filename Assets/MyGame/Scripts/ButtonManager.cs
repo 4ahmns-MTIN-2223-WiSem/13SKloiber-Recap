@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class ButtonManager : MonoBehaviour
 {
-    // QUELLEN: https://youtu.be/Xml-qIF7E44
+   
 
     public Button redButton;
     public Button greenButton;
